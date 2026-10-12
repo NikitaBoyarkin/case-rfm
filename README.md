@@ -6,6 +6,14 @@
 
 R/F/M scoring 1–5 splits the base into lifecycle segments from Champions to Lost; recency and monetary diverge — 'frequent but cheap' and 'rare but large'.
 
+## Navigation
+
+- 📖 [Full case study on the portfolio site](https://nikitaboyarkin.github.io/en/projects/volta/rfm/)
+- 🏦 [Parent project: volta-banking](https://github.com/NikitaBoyarkin/volta-banking)
+- 🧪 Related cases: [segmentation](https://github.com/NikitaBoyarkin/case-segmentation) · [clv](https://github.com/NikitaBoyarkin/case-clv)
+
+**On this page:** [Key results](#key-results) · [Situation](#situation) · [Task](#task) · [Actions](#actions) · [Result](#result) · [Recommendations](#recommendations) · [Charts](#charts) · [Dataset](#dataset) · [Quick start](#quick-start)
+
 ## Key results
 
 - 7 lifecycle segments (Champions→Lost)
